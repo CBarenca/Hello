@@ -9,6 +9,8 @@ Me considero una persona creativa y curiosa por aprender en este mundo de TI
 Carmen Herrera
 Cristian y yo nos conocimos hace un año en la escuela, y solo nos hemos visto algunas veces, es el más listo de la clase (:
 
+### Original idea
+This is based in [ttimbers/hello](https://github.com/ttimbers/hello) repository. Thank you Tiffany!
 
 <br>
 Maestría en Ciencia de Datos de Posgrados CUCEA de la Universidad de Guadalajara.  
